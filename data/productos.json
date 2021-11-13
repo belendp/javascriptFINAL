@@ -1,0 +1,8 @@
+[{"id":1,"nombre":"Columna Central 1/5","precio":33000, "cantidad":1, "imagen":"img/parlante1.png","categoria":"H1"},
+{"id":2,"nombre":"Monitor 1/5","precio":38000, "cantidad":1, "imagen":"img/parlante2.png","categoria":"H1"},
+{"id":3,"nombre":"Monitor Kevlar 1/6","precio":42000, "cantidad":1, "imagen":"img/parlante2.png","categoria":"H1E"},
+{"id":4,"nombre":"HE 3/6","precio":56000, "cantidad":1, "imagen":"img/parlante5.png","categoria":"H1E"},
+{"id":5,"nombre":"Parlante High End Serie 1","precio":60000, "cantidad":1, "imagen":"img/parlante5.png","categoria":"HIGH END SERIE"},
+{"id":6,"nombre":"HE 2/6","precio":65000, "cantidad":1, "imagen":"img/parlante6.png","categoria":"H1E"}
+
+]
